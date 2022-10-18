@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+img {
+  width: 250px;
+  height:auto;
+  align-items: center;
+}
+
+div {
+  text-align: center;
+  background-color: #F1F1F1;
+}
+
+h1 {
+  color: black;
+  background-color: #C1E3ED;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  border-style: double;
+}
+
+h2 {
+  color: black;
+  background-color: #C1E3ED;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  border-style: double;
+}
+
+h3 {
+  color: black;
+  background-color: #D2E1E6;
+  font-family: 'Poppins', sans-serif;
+  font-style: oblique;
+  text-align: center;
+}
+
+p {
+  color: black;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%
+}
+
+.image {
+  flex-basis: 40%
+}
+
+.text {
+  font-size: 15px;
+  padding-left: 0px;
+}
+
+.Important {
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  text-align: center;
+}
+
+.PersonalInfo {
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  text-align: center;
+}
+
+.Objective {
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  text-align:center;
+}
+
+.Skills {
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  text-align: center;
+}
+
+.EducationalBackground {
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  text-align: center;
+}
+
+.Affiliation {
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  text-align: center;
+}
+
+div {
+  border-style: inherit;
+}
+
+dt {
+  font-weight: bold;
+  text-decoration: underline;
+  background-color: #D2E1E6;
+}
